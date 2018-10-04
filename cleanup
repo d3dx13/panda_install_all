@@ -1,0 +1,10 @@
+#!/bin/bash
+clear
+sudo apt update -y
+clear
+sudo apt upgrade -y
+clear
+sudo apt dist-upgrade -y
+clear
+sudo apt autoremove -y
+clear
