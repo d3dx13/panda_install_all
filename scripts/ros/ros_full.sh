@@ -12,6 +12,7 @@ echo "source /opt/ros/kinetic/setup.zsh" >> ~/.zshrc
 echo "source /home/panda/catkin_ws/devel/setup.zsh" >> ~/.zshrc
 sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential -y
 cd
+mkdir -p catkin_ws/src
 cd catkin_ws/src
 catkin_init_workspace
 cd ..

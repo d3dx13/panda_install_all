@@ -10,3 +10,5 @@ sudo apt-get install libusb-1.0-0-dev pkg-config -y
 sudo apt-get install libglfw3-dev -y
 sudo apt-get install qtcreator -y
 sudo scripts/install_qt.sh
+cd
+

@@ -17,3 +17,4 @@ echo The log should indicate that a new uvcvideo driver has been registered.
 echo 
 echo If any errors have been noted, first attempt the patching process again, and then file an issue if not successful on the second attempt \(and make sure to copy the specific error in dmesg\).
 echo 
+cd
