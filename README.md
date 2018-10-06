@@ -4,3 +4,5 @@ A set of scripts for full configuration of LattePanda 4Gb as an IOT device with 
 chmod +x install.sh
 
 sudo ./install.sh
+
+sudo ./scripts/cleanall.sh
